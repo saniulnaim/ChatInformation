@@ -3,5 +3,5 @@
 3. run npm install to vs code.
 4. then write in command winndow ng start
 5. open localhost:4200 in two chrome instance.
-6. Attatch Db
+6. Attatch Db in sql server 2019.
 7. let's chat
