@@ -1,5 +1,6 @@
 CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
+For Backend:
 1. Download backend code from here https://github.com/saniulnaim/ChatApi3 
 2. Open it with visual studio 2019 (ChatSystem.sln)
 3. Open appseeting.json
@@ -8,6 +9,8 @@ https://github.com/saniulnaim/ChatApiAssignment/blob/main/appsetting.png
 5. You can download database from here https://github.com/saniulnaim/ChatInformation/blob/main/ChatSystem
 6. Make sure Chat.Api is start up project.
 7. If yes then run project from visual studio 2019 IIS express. Just simple click it to IIs Express.
+
+For Frontend:
 8. Download frontend project from https://github.com/saniulnaim/ChatUI
 9. Open frontend by vs code
 10.Write npm install in VS Code terminal
