@@ -11,10 +11,10 @@ https://github.com/saniulnaim/ChatApiAssignment/blob/main/appsetting.png
 7. If yes then run project from visual studio 2019 IIS express. Just simple click it to IIs Express.
 
 For Frontend:
-8. Download frontend project from https://github.com/saniulnaim/ChatUI
-9. Open frontend by vs code
-10.Write npm install in VS Code terminal
-11.Then write again ng start after completing install.
-12.Don't change any port number. If you do this then you may need to adjust CORS policy.
-13.Open localhost:4200 in two chrome instance.
-14.let's chat
+8.  Download frontend project from https://github.com/saniulnaim/ChatUI
+9.  Open frontend by vs code
+10. Write npm install in VS Code terminal
+11. Then write again ng start after completing install.
+12. Don't change any port number. If you do this then you may need to adjust CORS policy.
+13. Open localhost:4200 in two chrome instance.
+14. let's chat
