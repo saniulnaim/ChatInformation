@@ -1,6 +1,6 @@
 CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
-For Backend:
+<b>For Backend:</b>
 1. Download backend code from here https://github.com/saniulnaim/ChatApi3 
 2. Open it with visual studio 2019 (ChatSystem.sln)
 3. Open appseeting.json
