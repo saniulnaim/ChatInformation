@@ -6,7 +6,7 @@ CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 2. Open it with visual studio 2019 (ChatSystem.sln)
 3. Open appseeting.json
 4. Change ConnectionString with respect to your database and server.
-https://github.com/saniulnaim/ChatApiAssignment/blob/main/appsetting.png
+<img src="https://github.com/saniulnaim/ChatApiAssignment/blob/main/appsetting.png" alt="Girl in a jacket" width="500" height="600">
 5. You can download database from here https://github.com/saniulnaim/ChatInformation/blob/main/ChatSystem
 6. Make sure Chat.Api is start up project.
 7. If yes then run project from visual studio 2019 IIS express. Just simple click it to IIs Express.
