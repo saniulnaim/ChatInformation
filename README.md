@@ -1,6 +1,6 @@
 CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
-<b style="font-family: sans-serif">Installing Backend:</b>
+<h1 style="font-family: sans-serif">Installing Backend:</h1>
 
 1. Download backend code from here https://github.com/saniulnaim/ChatApi3 
 2. Open it with visual studio 2019 (ChatSystem.sln)
