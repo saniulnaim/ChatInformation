@@ -16,7 +16,7 @@ CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
 
 
-<b style="font-family: sans-serif">Installing Frontend:</b>
+<h1 style="font-family: sans-serif">Installing Frontend:</h1>
  
 1. Download frontend project from https://github.com/saniulnaim/ChatUI
 
