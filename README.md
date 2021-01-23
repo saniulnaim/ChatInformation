@@ -1,6 +1,6 @@
 CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
-<b>Installing Backend:</b>
+<b style="font-family: sans-serif">Installing Backend:</b>
 
 1. Download backend code from here https://github.com/saniulnaim/ChatApi3 
 2. Open it with visual studio 2019 (ChatSystem.sln)
@@ -16,7 +16,7 @@ CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
 
 
 
-<b>Installing Frontend:</b>
+<b style="font-family: sans-serif">Installing Frontend:</b>
  
 1. Download frontend project from https://github.com/saniulnaim/ChatUI
 
@@ -27,4 +27,5 @@ CV: https://github.com/saniulnaim/ChatInformation/blob/main/cv_saniulnaim.pdf
    <img src="https://github.com/saniulnaim/ChatApiAssignment/blob/main/ngstart.png" alt="" width="auto" height="auto">
 12. Don't change any port number. If you do this then you may need to adjust CORS policy.
 13. Open localhost:4200 in two chrome instance.
+    <img src="https://github.com/saniulnaim/ChatApiAssignment/blob/main/localhost.png" alt="" width="auto" height="auto">
 14. let's chat
